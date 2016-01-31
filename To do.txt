@@ -1,3 +1,4 @@
 1. Keil for ARM DOWNLOAD;
 2. ASK QUESTION WHICH VERSION CAN PCA10040 USING?
 3. use tortoiseGit software.
+4. How to setup IAR projects manually?
