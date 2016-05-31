@@ -2,3 +2,19 @@
 2. ASK QUESTION WHICH VERSION CAN PCA10040 USING?
 3. use tortoiseGit software.
 4. How to setup IAR projects manually?
+
+Mobile Apps：
+http://www.nordicsemi.com/eng/Products/Nordic-mobile-Apps
+
+GitHub of Nordic Company:
+https://github.com/NordicSemiconductor
+
+====================== 05-31 =============================
+1. 熟悉PPI，GPIOTE 模块，会用UART打印输出log；
+2. 熟悉如何使用softDevice下载基于BLE的工程，最好能实现app与板子的互动控制；
+3. 初步目标为：通过app，控制板子上LED的亮灭，实现最基本的控制，然后后续慢慢增强功能；
+4. 接着，熟悉蓝牙框架，会使用蓝牙协议开发产品功能；
+5. 最终目标是，将自己的工程移植到mesh协议中，实现类zigbee智能家居控制。
+
+
+
